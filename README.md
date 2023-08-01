@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQE5VDxhpPS31g/profile-displaybackgroundimage-shrink_350_1400/0/1690890906221?e=1696464000&v=beta&t=ODBl00kdvo48BeOuiu_8SjBHXeZ8iqc-qU-bCgXAY7o)
+![I am GitHub Readme Generator's creator](file:///C:/Users/umarf/Desktop/MU.pngo)
 <h1 id="-about-me-">💫 About Me:</h1>
 <p>🔭 I&#39;m currently working on Backend integration and APIs.<br>👯 I’m looking forward to collaborating on Full stack projects.<br>🤝 I’m Looking for help with Blockchain projects and learning material.<br>🌱 I&#39;m currently learning advanced front-end and back-end tricks. <br>💬 Feels happy to help others and learn.<br>⚡ Fun fact: &quot;I am from medical background 😁&quot;.</p>
 <h2 id="-socials-">🌐 Socials:</h2>
