@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQE5VDxhpPS31g/profile-displaybackgroundimage-shrink_350_1400/0/1690890906221?e=1696464000&v=beta&t=ODBl00kdvo48BeOuiu_8SjBHXeZ8iqc-qU-bCgXAY7o)
 
 <h1 id="-about-me-">💫 About Me:</h1>
-<p>🔭 I&#39;m currently working on Backend integration and APIs.<br>👯 I’m looking forward to collaborating on Full stack projects.<br>🤝 I’m Looking for help with Blockchain projects and learning material.<br>🌱 I&#39;m currently learning advanced front-end and back-end tricks. <br>💬 Feels happy to help others and learn.<br>⚡ Fun fact: &quot;I am from medical background 😁&quot;.</p>
+<p>🔭 I&#39;m currently working on Backend integration and APIs.<br>👯 I’m looking forward to collaborating on Full stack projects.<br>🤝 I’m Looking for help with Blockchain ⛓️ projects and learning material.<br>🌱 I&#39;m currently learning advanced front-end and back-end tricks. <br>💬 Feels happy to help others and learn.<br>⚡ Fun fact: &quot;I am from medical background 😁&quot;.</p>
 <h2 id="-socials-">🌐 Socials:</h2>
 <p><a href="https://linkedin.com/in/Umar Farooq"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/umar_cpp"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
