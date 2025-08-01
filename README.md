@@ -16,8 +16,6 @@ Hey there its umar !
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt=""></p>
 <h3 id="-top-contributed-repo">🔝 Top Contributed Repo</h3>
 <p><img src="https://github-contributor-stats.vercel.app/api?username=Ufrooq&amp;limit=5&amp;theme=dracula&amp;combine_all_yearly_contributions=true" alt=""></p>
-<h3 id="-random-dev-meme">😂 Random Dev Meme</h3>
-<p><img src="https://rm.up.railway.app/" width="512px"/></p>
 <hr>
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Ufrooq&amp;icon=0&amp;color=1" alt=""></a></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
