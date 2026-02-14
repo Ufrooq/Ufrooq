@@ -2,19 +2,18 @@
 
 <!-- 
 TO USE YOUR CUSTOM BANNER:
-1. Upload your banner image (like the one you showed me) to your repository
-2. Put it in the root folder or create an 'assets' folder
-3. Replace the line below with: <img src="./your-banner-name.png" width="100%" alt="Banner"/>
-   OR if in assets folder: <img src="./assets/your-banner-name.png" width="100%" alt="Banner"/>
+1. Upload your banner image to your repository in an 'assets' folder
+2. Replace the line below with: <img src="./assets/banner.png" width="100%" alt="Banner"/>
 
 Example:
-<img src="./banner.png" width="100%" alt="Umar Farooq Banner"/>
+<img src="./assets/banner.png" width="100%" alt="Umar Farooq Banner"/>
 -->
 
 <!-- Current animated header - REPLACE THIS with your custom banner -->
 <img src="./assets/banner.png" width="100%" alt="Umar Farooq Banner"/>
+
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=600&lines=Backend+Integration+%26+API+Development;React+%7C+Node.js+%7C+Python+%7C+MongoDB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;From+Medical+Background+to+Tech+%F0%9F%92%89%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Backend+Integration+%26+API+Development;React+%7C+Node.js+%7C+Python+%7C+MongoDB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;From+Medical+Background+to+Tech+%F0%9F%92%89%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Social & Profile Stats -->
 <p align="center">
@@ -45,14 +44,6 @@ Example:
 💬 Ask me: React, Node.js, Python, AWS
 ⚡ Fun: "From stethoscopes to code! 🩺➡️💻"
 ```
-
-### 🚀 What I Do
-- 🔨 Build scalable backend systems with Node.js & Python
-- ☁️ Deploy cloud infrastructure on AWS & Digital Ocean
-- 🤝 Collaborate on full-stack projects
-- 🤖 Explore AI/ML integrations
-- 📚 Contribute to open source
-- 🌟 Help aspiring developers
 
 <br clear="right"/>
 
@@ -137,14 +128,14 @@ Example:
 <div align="center">
 
 <!-- Stats Cards Row -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&bg_color=0d1117&include_all_commits=true&custom_title=Umar's%20GitHub%20Stats" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=1E1B4B&include_all_commits=true&custom_title=Umar's%20GitHub%20Stats" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ufrooq&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ufrooq&hide_border=true&background=1E1B4B&stroke=A855F7&ring=C084FC&fire=F472B6&currStreakLabel=E9D5FF&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=C4B5FD&sideLabels=E9D5FF" alt="GitHub Streak"/>
 
 <!-- Language Stats Row -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117&langs_count=10&hide=html,css,jupyter%20notebook&custom_title=Most%20Used%20Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=compact&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=1E1B4B&langs_count=10&hide=html,css,jupyter%20notebook&custom_title=Most%20Used%20Languages"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=donut-vertical&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117&langs_count=6&custom_title=Language%20Distribution"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=donut-vertical&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=1E1B4B&langs_count=6&custom_title=Language%20Distribution"/>
 
 </div>
 
@@ -156,31 +147,20 @@ Example:
 <div align="center">
 
 <!-- Profile Summary Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ufrooq&theme=github_dark" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ufrooq&theme=dracula" width="100%" alt="Profile Summary"/>
 
 <br/><br/>
 
 <!-- Three Stats Cards -->
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ufrooq&theme=github_dark" alt="Repos per Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ufrooq&theme=github_dark" alt="Most Commit Language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ufrooq&theme=github_dark&utcOffset=5" alt="Commit Time"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ufrooq&theme=dracula" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ufrooq&theme=dracula" alt="Most Commit Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ufrooq&theme=dracula&utcOffset=5" alt="Commit Time"/>
 
 <br/><br/>
 
 <!-- Two Stats Cards -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ufrooq&theme=github_dark" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Additional Stats"/>
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ufrooq&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ufrooq&theme=dracula" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Additional Stats"/>
 
 </div>
 
@@ -191,46 +171,16 @@ Example:
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Ufrooq&limit=5&theme=algolia&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repos"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Ufrooq&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repos"/>
 
 </div>
 
 <!-- Animated Separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## 📫 Connect With Me
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ufrooq/Ufrooq/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ufrooq/Ufrooq/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ufrooq/Ufrooq/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-### 💼 Open for collaborations and opportunities!
-
-<br>
 
 <a href="https://linkedin.com/in/Umar%20Farooq">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -245,16 +195,6 @@ Example:
   <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br><br>
-
-### 💬 Ask me about:
-**React | React Native | Node.js | Python | MongoDB | PostgreSQL | AWS | Cloud Architecture**
-
-<br>
-
-### 🎯 Available for:
-**💼 Freelance Projects | 🤝 Full Stack Collaborations | 🎓 Mentorship | 💡 Technical Consulting**
-
 </div>
 
 <!-- Animated Separator -->
@@ -262,39 +202,7 @@ Example:
 
 <div align="center">
 
-### 💡 My Journey
-
-**🩺 Medical Background → 💻 Software Development**
-
-*"Transitioned from healthcare to tech - bringing analytical thinking, problem-solving skills, and a passion for building solutions that make a difference. Every line of code is a step towards innovation!"*
-
-<br>
-
-### 🏆 2025 Goals
-
-- [ ] 🌟 Contribute to 10+ major open source projects
-- [ ] 🤖 Build 5 production-ready full stack applications
-- [ ] 📚 Mentor 25+ aspiring developers
-- [ ] ☁️ Achieve AWS Solutions Architect certification
-- [ ] 🚀 Launch a SaaS product
-- [ ] 📝 Write 50+ technical articles
-- [ ] 🎯 Master microservices architecture
-
-</div>
-
-<!-- Animated Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
-
-**⭐️ From [Ufrooq](https://github.com/Ufrooq) | Built with ❤️ and lots of ☕**
-
-*Last Updated: February 2026 | Always learning, always growing!*
-
-<br>
+**⭐️ From [Ufrooq](https://github.com/Ufrooq) | Built with ❤️**
 
 <img src="https://komarev.com/ghpvc/?username=Ufrooq&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
