@@ -14,7 +14,7 @@ Example:
 <!-- Current animated header - REPLACE THIS with your custom banner -->
 <img src="./assets/banner.png" width="100%" alt="Umar Farooq Banner"/>
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Integration+%26+API+Development;React+%7C+Node.js+%7C+Python+%7C+MongoDB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;From+Medical+Background+to+Tech+%F0%9F%92%89%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A020F0&center=true&vCenter=true&random=false&width=600&lines=Backend+Integration+%26+API+Development;React+%7C+Node.js+%7C+Python+%7C+MongoDB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;From+Medical+Background+to+Tech+%F0%9F%92%89%E2%9E%A1%EF%B8%8F%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <!-- Social & Profile Stats -->
 <p align="center">
