@@ -130,12 +130,12 @@ Example:
 <!-- Stats Cards Row -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&count_private=true&hide_border=true&title_color=A855F7&icon_color=C084FC&text_color=E9D5FF&bg_color=1E1B4B&include_all_commits=true&custom_title=Umar's%20GitHub%20Stats" alt="GitHub Stats"/>
 
-<!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ufrooq&hide_border=true&background=1E1B4B&stroke=A855F7&ring=C084FC&fire=F472B6&currStreakLabel=E9D5FF&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=C4B5FD&sideLabels=E9D5FF" alt="GitHub Streak"/> -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ufrooq&hide_border=true&background=1E1B4B&stroke=A855F7&ring=C084FC&fire=F472B6&currStreakLabel=E9D5FF&sideNums=E9D5FF&currStreakNum=E9D5FF&dates=C4B5FD&sideLabels=E9D5FF" alt="GitHub Streak"/>
 
 <!-- Language Stats Row -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=compact&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=1E1B4B&langs_count=10&hide=html,css,jupyter%20notebook&custom_title=Most%20Used%20Languages"/>
 
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=donut-vertical&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=1E1B4B&langs_count=6&custom_title=Language%20Distribution"/> -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ufrooq&layout=donut-vertical&hide_border=true&title_color=A855F7&text_color=E9D5FF&bg_color=1E1B4B&langs_count=6&custom_title=Language%20Distribution"/>
 
 </div>
 
@@ -159,7 +159,7 @@ Example:
 <br/><br/>
 
 <!-- Two Stats Cards -->
-<!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ufrooq&theme=dracula" alt="GitHub Stats"/> -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ufrooq&theme=dracula" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Additional Stats"/>
 
 </div>
