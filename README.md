@@ -159,8 +159,8 @@ Example:
 <br/><br/>
 
 <!-- Two Stats Cards -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ufrooq&theme=dracula" alt="GitHub Stats"/>
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Additional Stats"/> -->
+<!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ufrooq&theme=dracula" alt="GitHub Stats"/> -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ufrooq&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Additional Stats"/>
 
 </div>
 
